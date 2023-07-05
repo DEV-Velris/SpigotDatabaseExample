@@ -1,0 +1,9 @@
+name: Myoxyss
+version: '${project.version}'
+main: fr.velris.myoxyss.Myoxyss
+api-version: '1.18'
+commands:
+  test:
+    description: Test command
+    usage: /<command>
+    aliases: [t]
